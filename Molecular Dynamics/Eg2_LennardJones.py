@@ -34,6 +34,7 @@ class MrDynamics:
     
     def Beeman(self, ε, rm, m, Tmax, Δt, r, v):
         
+        
         t = 0
         
         # Step - 1 : Initialization
